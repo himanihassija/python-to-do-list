@@ -49,6 +49,10 @@ python to_do_list.py
 4. Delete Task
 5. Exit
 
+## Demo
+https://github.com/himanihassija/python-to-do-list/blob/main/to%20do%20list.JPG
+
+
 ## Learning Outcomes
 - Understanding of basic Python syntax
 - Practical use of file handling
